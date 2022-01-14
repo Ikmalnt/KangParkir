@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578666277 source:c:\users\user\documents\modul7\kang parkir\main.cpp
+	<iostream>
+	<windows.h>
+
